@@ -1,5 +1,6 @@
 # Virtual Environments
 Teacher: Carlos Mejia
+
 Student: Gabriela del Carmen Sánchez Machado
 
 ## Installation checklist

@@ -10,4 +10,10 @@ repos:
   rev: 6.0.0
   hooks:
   - id: flake8
-    args: [--ignore=E501]
+    args: [--ignore=E501,--ignore=F401]
+
+- repo: https://github.com/pycqa/isort
+  rev: 5.11.2
+   hooks:
+  - id: isort
+    name: isort (python)
